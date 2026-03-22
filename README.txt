@@ -1,2 +1,1 @@
-https://github.com/Neeraj6maths/EDA-Hotel-Booking/tree/main
-https://www.kaggle.com/code/shrutidandagi/hotel-booking-demand-eda-data-visualisation
+Github nhóm: https://github.com/LeQuocBinh25/ThucHanh-TTNT.git
